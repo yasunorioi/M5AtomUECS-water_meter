@@ -1,6 +1,6 @@
 # M5AtomUECS-water_meter
 
-add file config.h
+create file config.h
 
 ```
 #define SSID "your WiFi SSID"
